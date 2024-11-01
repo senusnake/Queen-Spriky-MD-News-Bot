@@ -6,7 +6,7 @@
     "success_url": "/",
   
     "env": {
-      "SESSION_ID": {
+      "SESSION_ID": {SEkEUIyZ#hJdzoFjy5S0gVrmVgu8xfKtk-4vNEwO8KusW_xeDn5Q
         "description": "Put the session-id here.",
         "required": true
       },
@@ -14,11 +14,11 @@
         "description": "Put the mongodb url here.",
         "required": true
       },
-      "OwnerNumber": {
+      "OwnerNumber": {94766950645
         "description": "Put the owner number here.",
         "required": true
       },
-      "BotNumber": {
+      "BotNumber": {94766950645
         "description": "Put the bot number here.",
         "required": true
       }
